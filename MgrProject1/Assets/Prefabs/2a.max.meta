@@ -1,0 +1,306 @@
+fileFormatVersion: 2
+guid: cb7b66e53a23fc6469c24b5a96bb3f5c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 539105 32E-MPM+HA 32P-TGK-V-MAIU-MMJJ---(1)
+    100004: _153321 QSM-M7-6-I---(MPA)
+    100006: _153321 QSM-M7-6-I---(MPA) 1
+    100008: _153321 QSM-M7-6-I---(MPA) 2
+    100010: _153321 QSM-M7-6-I---(MPA) 3
+    100012: _153321 QSM-M7-6-I---(MPA) 4
+    100014: _153321 QSM-M7-6-I---(MPA) 5
+    100016: _153321 QSM-M7-6-I---(MPA) 6
+    100018: _153321 QSM-M7-6-I---(MPA) 7
+    100020: _153321 QSM-M7-6-I---(MPA) 8
+    100022: _186110 QS-G1/4-8-I
+    100024: _186110 QS-G1/4-8-I 1
+    100026: _533342 VMPA1-M1H-M-PI---(asm)
+    100028: _533342 VMPA1-M1H-M-PI---(asm) 1
+    100030: _533343 VMPA1-M1H-J-PI---(asm)
+    100032: _533343 VMPA1-M1H-J-PI---(asm) 1
+    100034: _533353 VMPA1-FB-SPU---(p_0)
+    100036: _533373 VMPA-EPR---(R)
+    100038: _533374 VMPA-APU---(P)
+    100040: _533374 VMPA-APU---(P) 1
+    100042: _537988 VMPA1-MPM-EMM-8---(asm)
+    100044: _538657 VMPA1-FB-AP-4-1-T1---(mpa_0 0 0 0 0 0)
+    100046: _539105 MPA-MPM---(A_-)
+    100048: _540895 VMPA1-MPM-EPL-EU---(EPL_0)
+    100050: _540898 VMPA-HBV-B---(HHB)
+    100052: _540898 VMPA-HBV-B---(HHB) 1
+    100054: _540898 VMPA-HBV-B---(HHB) 2
+    100056: _540898 VMPA-HBV-B---(HHB) 3
+    100058: _540898 VMPA-HBV-B---(HHB) 4
+    100060: _540898 VMPA-HBV-B---(HHB) 5
+    100062: NAUO1
+    100064: NAUO10
+    100066: NAUO11
+    100068: NAUO12
+    100070: NAUO13
+    100072: NAUO14
+    100074: NAUO15
+    100076: NAUO16
+    100078: NAUO17
+    100080: NAUO18
+    100082: NAUO19
+    100084: NAUO2
+    100086: NAUO20
+    100088: NAUO21
+    100090: NAUO22
+    100092: NAUO23
+    100094: NAUO24
+    100096: NAUO25
+    100098: NAUO26
+    100100: NAUO27
+    100102: NAUO28
+    100104: NAUO29
+    100106: NAUO3
+    100108: NAUO4
+    100110: NAUO5
+    100112: NAUO6
+    100114: NAUO7
+    100116: NAUO8
+    100118: NAUO9
+    400000: //RootNode
+    400002: 539105 32E-MPM+HA 32P-TGK-V-MAIU-MMJJ---(1)
+    400004: _153321 QSM-M7-6-I---(MPA)
+    400006: _153321 QSM-M7-6-I---(MPA) 1
+    400008: _153321 QSM-M7-6-I---(MPA) 2
+    400010: _153321 QSM-M7-6-I---(MPA) 3
+    400012: _153321 QSM-M7-6-I---(MPA) 4
+    400014: _153321 QSM-M7-6-I---(MPA) 5
+    400016: _153321 QSM-M7-6-I---(MPA) 6
+    400018: _153321 QSM-M7-6-I---(MPA) 7
+    400020: _153321 QSM-M7-6-I---(MPA) 8
+    400022: _186110 QS-G1/4-8-I
+    400024: _186110 QS-G1/4-8-I 1
+    400026: _533342 VMPA1-M1H-M-PI---(asm)
+    400028: _533342 VMPA1-M1H-M-PI---(asm) 1
+    400030: _533343 VMPA1-M1H-J-PI---(asm)
+    400032: _533343 VMPA1-M1H-J-PI---(asm) 1
+    400034: _533353 VMPA1-FB-SPU---(p_0)
+    400036: _533373 VMPA-EPR---(R)
+    400038: _533374 VMPA-APU---(P)
+    400040: _533374 VMPA-APU---(P) 1
+    400042: _537988 VMPA1-MPM-EMM-8---(asm)
+    400044: _538657 VMPA1-FB-AP-4-1-T1---(mpa_0 0 0 0 0 0)
+    400046: _539105 MPA-MPM---(A_-)
+    400048: _540895 VMPA1-MPM-EPL-EU---(EPL_0)
+    400050: _540898 VMPA-HBV-B---(HHB)
+    400052: _540898 VMPA-HBV-B---(HHB) 1
+    400054: _540898 VMPA-HBV-B---(HHB) 2
+    400056: _540898 VMPA-HBV-B---(HHB) 3
+    400058: _540898 VMPA-HBV-B---(HHB) 4
+    400060: _540898 VMPA-HBV-B---(HHB) 5
+    400062: NAUO1
+    400064: NAUO10
+    400066: NAUO11
+    400068: NAUO12
+    400070: NAUO13
+    400072: NAUO14
+    400074: NAUO15
+    400076: NAUO16
+    400078: NAUO17
+    400080: NAUO18
+    400082: NAUO19
+    400084: NAUO2
+    400086: NAUO20
+    400088: NAUO21
+    400090: NAUO22
+    400092: NAUO23
+    400094: NAUO24
+    400096: NAUO25
+    400098: NAUO26
+    400100: NAUO27
+    400102: NAUO28
+    400104: NAUO29
+    400106: NAUO3
+    400108: NAUO4
+    400110: NAUO5
+    400112: NAUO6
+    400114: NAUO7
+    400116: NAUO8
+    400118: NAUO9
+    2100000: 'Material #25'
+    2100002: 'Material #28'
+    2100004: 'Material #29'
+    2100006: 'Material #32'
+    2100008: 'Material #35'
+    2100010: 'Material #36'
+    2100012: 'Material #40'
+    2100014: 'Material #41'
+    2300000: _153321 QSM-M7-6-I---(MPA)
+    2300002: _153321 QSM-M7-6-I---(MPA) 1
+    2300004: _153321 QSM-M7-6-I---(MPA) 2
+    2300006: _153321 QSM-M7-6-I---(MPA) 3
+    2300008: _153321 QSM-M7-6-I---(MPA) 4
+    2300010: _153321 QSM-M7-6-I---(MPA) 5
+    2300012: _153321 QSM-M7-6-I---(MPA) 6
+    2300014: _153321 QSM-M7-6-I---(MPA) 7
+    2300016: _153321 QSM-M7-6-I---(MPA) 8
+    2300018: _186110 QS-G1/4-8-I
+    2300020: _186110 QS-G1/4-8-I 1
+    2300022: _533342 VMPA1-M1H-M-PI---(asm)
+    2300024: _533342 VMPA1-M1H-M-PI---(asm) 1
+    2300026: _533343 VMPA1-M1H-J-PI---(asm)
+    2300028: _533343 VMPA1-M1H-J-PI---(asm) 1
+    2300030: _533353 VMPA1-FB-SPU---(p_0)
+    2300032: _533373 VMPA-EPR---(R)
+    2300034: _533374 VMPA-APU---(P)
+    2300036: _533374 VMPA-APU---(P) 1
+    2300038: _537988 VMPA1-MPM-EMM-8---(asm)
+    2300040: _538657 VMPA1-FB-AP-4-1-T1---(mpa_0 0 0 0 0 0)
+    2300042: _539105 MPA-MPM---(A_-)
+    2300044: _540895 VMPA1-MPM-EPL-EU---(EPL_0)
+    2300046: _540898 VMPA-HBV-B---(HHB)
+    2300048: _540898 VMPA-HBV-B---(HHB) 1
+    2300050: _540898 VMPA-HBV-B---(HHB) 2
+    2300052: _540898 VMPA-HBV-B---(HHB) 3
+    2300054: _540898 VMPA-HBV-B---(HHB) 4
+    2300056: _540898 VMPA-HBV-B---(HHB) 5
+    3300000: _153321 QSM-M7-6-I---(MPA)
+    3300002: _153321 QSM-M7-6-I---(MPA) 1
+    3300004: _153321 QSM-M7-6-I---(MPA) 2
+    3300006: _153321 QSM-M7-6-I---(MPA) 3
+    3300008: _153321 QSM-M7-6-I---(MPA) 4
+    3300010: _153321 QSM-M7-6-I---(MPA) 5
+    3300012: _153321 QSM-M7-6-I---(MPA) 6
+    3300014: _153321 QSM-M7-6-I---(MPA) 7
+    3300016: _153321 QSM-M7-6-I---(MPA) 8
+    3300018: _186110 QS-G1/4-8-I
+    3300020: _186110 QS-G1/4-8-I 1
+    3300022: _533342 VMPA1-M1H-M-PI---(asm)
+    3300024: _533342 VMPA1-M1H-M-PI---(asm) 1
+    3300026: _533343 VMPA1-M1H-J-PI---(asm)
+    3300028: _533343 VMPA1-M1H-J-PI---(asm) 1
+    3300030: _533353 VMPA1-FB-SPU---(p_0)
+    3300032: _533373 VMPA-EPR---(R)
+    3300034: _533374 VMPA-APU---(P)
+    3300036: _533374 VMPA-APU---(P) 1
+    3300038: _537988 VMPA1-MPM-EMM-8---(asm)
+    3300040: _538657 VMPA1-FB-AP-4-1-T1---(mpa_0 0 0 0 0 0)
+    3300042: _539105 MPA-MPM---(A_-)
+    3300044: _540895 VMPA1-MPM-EPL-EU---(EPL_0)
+    3300046: _540898 VMPA-HBV-B---(HHB)
+    3300048: _540898 VMPA-HBV-B---(HHB) 1
+    3300050: _540898 VMPA-HBV-B---(HHB) 2
+    3300052: _540898 VMPA-HBV-B---(HHB) 3
+    3300054: _540898 VMPA-HBV-B---(HHB) 4
+    3300056: _540898 VMPA-HBV-B---(HHB) 5
+    4300000: _540895 VMPA1-MPM-EPL-EU---(EPL_0)
+    4300002: _533374 VMPA-APU---(P)
+    4300004: _539105 MPA-MPM---(A_-)
+    4300006: _186110 QS-G1/4-8-I
+    4300008: _153321 QSM-M7-6-I---(MPA)
+    4300010: _538657 VMPA1-FB-AP-4-1-T1---(mpa_0 0 0 0 0 0)
+    4300012: _537988 VMPA1-MPM-EMM-8---(asm)
+    4300014: _533342 VMPA1-M1H-M-PI---(asm)
+    4300016: _540898 VMPA-HBV-B---(HHB)
+    4300018: _533342 VMPA1-M1H-M-PI---(asm)
+    4300020: _540898 VMPA-HBV-B---(HHB)
+    4300022: _533343 VMPA1-M1H-J-PI---(asm)
+    4300024: _540898 VMPA-HBV-B---(HHB)
+    4300026: _540898 VMPA-HBV-B---(HHB)
+    4300028: _533343 VMPA1-M1H-J-PI---(asm)
+    4300030: _540898 VMPA-HBV-B---(HHB)
+    4300032: _540898 VMPA-HBV-B---(HHB)
+    4300034: _153321 QSM-M7-6-I---(MPA)
+    4300036: _153321 QSM-M7-6-I---(MPA)
+    4300038: _153321 QSM-M7-6-I---(MPA)
+    4300040: _153321 QSM-M7-6-I---(MPA)
+    4300042: _153321 QSM-M7-6-I---(MPA)
+    4300044: _153321 QSM-M7-6-I---(MPA)
+    4300046: _153321 QSM-M7-6-I---(MPA)
+    4300048: _153321 QSM-M7-6-I---(MPA)
+    4300050: _533373 VMPA-EPR---(R)
+    4300052: _533353 VMPA1-FB-SPU---(p_0)
+    4300054: _186110 QS-G1/4-8-I
+    4300056: _533374 VMPA-APU---(P)
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
